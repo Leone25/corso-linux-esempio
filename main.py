@@ -101,7 +101,7 @@ def main():
                 biblio.mostra_tutti_i_libri()
 
             elif scelta == '5':
-                print("Grazie per aver usato la Biblioteca. Arrivederci!")
+                print("Grazie per aver usato la Biblioteca. Arrivederci!!!!!")
                 break
             else:
                 print("Scelta non valida. Riprova.")
